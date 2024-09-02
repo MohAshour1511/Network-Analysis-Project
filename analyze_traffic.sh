@@ -2,7 +2,6 @@
 
 # Bash Script to Analyze Network Traffic
 
-# Input: Path to the Wireshark pcap file
 pcap_file=$1
 
 # Check if the pcap file path is provided
